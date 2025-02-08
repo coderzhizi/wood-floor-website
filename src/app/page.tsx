@@ -257,9 +257,9 @@ export default function Home() {
                 }}
               >
                 <p className="text-gray-600 italic mb-4">
-                  "I couldn’t be more pleased with the flooring I purchased from
+                  I couldn’t be more pleased with the flooring I purchased from
                   WoodFloor Pro. The installation was seamless, and the quality
-                  of the wood is unmatched."
+                  of the wood is unmatched.
                 </p>
                 <p className="font-semibold text-gray-800">{name}</p>
                 <p className="text-gray-500">Homeowner</p>
